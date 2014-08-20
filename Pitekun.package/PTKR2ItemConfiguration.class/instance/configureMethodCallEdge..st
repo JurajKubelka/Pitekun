@@ -1,0 +1,3 @@
+double dispatch
+configureMethodCallEdge: aPTKMethodCallEdge 
+	aPTKMethodCallEdge uiAttributes builder: edgeBuilder

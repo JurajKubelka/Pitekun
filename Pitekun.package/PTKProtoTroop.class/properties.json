@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"logistician",
+		"journalist" ],
+	"name" : "PTKProtoTroop",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Roassal2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"position",
+		"originalExtent" ],
+	"name" : "PTKR2Attributes",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"configureImplementors:" : "JurajKubelka 5/14/2014 11:09",
+		"configureImplementorsEdge:" : "JurajKubelka 4/4/2014 13:51",
+		"configureItem:" : "JurajKubelka 4/4/2014 13:47",
+		"configureMethod:" : "JurajKubelka 4/4/2014 13:48",
+		"configureMethodCallEdge:" : "JurajKubelka 4/22/2014 17:33",
+		"configureSenders:" : "JurajKubelka 5/14/2014 11:09",
+		"configureSendersEdge:" : "JurajKubelka 4/29/2014 17:21",
+		"configureVariables:" : "JurajKubelka 5/14/2014 11:09",
+		"edgeBuilder:" : "JurajKubelka 5/14/2014 11:07",
+		"methodBuilder:" : "JurajKubelka 4/4/2014 13:21",
+		"methodGroupBuilder:" : "JurajKubelka 5/14/2014 11:09" } }

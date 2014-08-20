@@ -1,0 +1,3 @@
+visiting
+visitMethodCallEdge: aPTKMethodCallEdge 
+	self methodCallEdgeCivilEngineer constructEdge: aPTKMethodCallEdge

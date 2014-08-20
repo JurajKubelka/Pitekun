@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"smartBrowser" ],
+	"name" : "PTKR2SmartBrowserExtension",
+	"pools" : [
+		 ],
+	"super" : "PTKExtension",
+	"type" : "normal" }

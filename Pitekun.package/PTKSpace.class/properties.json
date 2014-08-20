@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKSpace",
+	"pools" : [
+		 ],
+	"super" : "PTKSubNode",
+	"type" : "normal" }

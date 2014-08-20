@@ -1,0 +1,18 @@
+{
+	"category" : "Pitekun-Roassal2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"modelReport",
+		"removedElements",
+		"removedEdges",
+		"newElements",
+		"newEdges" ],
+	"name" : "PTKR2ChangeReport",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Object",
+	"type" : "normal" }

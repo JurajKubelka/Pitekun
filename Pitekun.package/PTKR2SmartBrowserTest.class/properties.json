@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"browser" ],
+	"name" : "PTKR2SmartBrowserTest",
+	"pools" : [
+		 ],
+	"super" : "PTKTestCase",
+	"type" : "normal" }

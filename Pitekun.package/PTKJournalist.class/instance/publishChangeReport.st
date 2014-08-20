@@ -1,0 +1,3 @@
+report manipulation
+publishChangeReport
+	self publishChangeReport: PTKCobwebExpanded

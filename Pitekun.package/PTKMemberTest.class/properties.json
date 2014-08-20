@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"member" ],
+	"name" : "PTKMemberTest",
+	"pools" : [
+		 ],
+	"super" : "PTKTestCase",
+	"type" : "normal" }

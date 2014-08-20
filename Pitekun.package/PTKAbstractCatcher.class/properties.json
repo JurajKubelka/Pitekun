@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKAbstractCatcher",
+	"pools" : [
+		 ],
+	"super" : "PTKMember",
+	"type" : "normal" }

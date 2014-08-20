@@ -1,0 +1,3 @@
+initialization
+initializeSpaceBuilder: aBuilder
+	self subclassResponsibility

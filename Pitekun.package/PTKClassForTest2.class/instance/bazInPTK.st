@@ -1,0 +1,3 @@
+accessing
+bazInPTK
+	^ 30

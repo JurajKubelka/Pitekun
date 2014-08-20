@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKCobwebItems",
+	"pools" : [
+		 ],
+	"super" : "PTKOrderedCollection",
+	"type" : "normal" }

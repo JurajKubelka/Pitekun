@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Roassal2-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targets",
+		"decoration" ],
+	"name" : "PTKR2Decoration",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Extension",
+	"type" : "normal" }

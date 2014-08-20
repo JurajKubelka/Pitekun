@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ast" ],
+	"name" : "PTKImplementors",
+	"pools" : [
+		 ],
+	"super" : "PTKMethods",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKLogistician",
+	"pools" : [
+		 ],
+	"super" : "PTKProtoLogistician",
+	"type" : "normal" }

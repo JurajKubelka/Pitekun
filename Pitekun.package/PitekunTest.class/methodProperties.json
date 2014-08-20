@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JurajKubelka 3/18/2014 16:57",
+		"testAddCompiledMethod" : "JurajKubelka 4/14/2014 21:22",
+		"testExamples" : "JurajKubelka 3/19/2014 10:17",
+		"testOpen" : "JurajKubelka 3/18/2014 11:26",
+		"testOpen2" : "JurajKubelka 5/22/2014 14:13",
+		"testOpenIfNotOpenned" : "JurajKubelka 5/22/2014 14:17",
+		"testOpenIfNotOpenned2" : "JurajKubelka 5/22/2014 14:09" } }

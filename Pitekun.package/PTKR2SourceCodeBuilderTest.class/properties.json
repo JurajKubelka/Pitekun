@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder" ],
+	"name" : "PTKR2SourceCodeBuilderTest",
+	"pools" : [
+		 ],
+	"super" : "PTKTestCase",
+	"type" : "normal" }

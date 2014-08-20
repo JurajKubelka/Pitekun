@@ -1,0 +1,3 @@
+accesing
+highlightingColor
+	^ Color yellow

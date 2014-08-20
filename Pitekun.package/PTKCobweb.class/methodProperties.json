@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEdge:" : "JurajKubelka 3/10/2014 20:54",
+		"addEdges:" : "JurajKubelka 3/11/2014 15:45",
+		"addNode:" : "JurajKubelka 3/10/2014 19:44",
+		"addNodes:" : "JurajKubelka 3/11/2014 15:45",
+		"asArray" : "JurajKubelka 3/13/2014 13:10",
+		"edges" : "JurajKubelka 3/10/2014 19:58",
+		"modelEdges" : "JurajKubelka 3/10/2014 20:02",
+		"modelNodes" : "JurajKubelka 3/10/2014 20:02",
+		"nodeFromModel:" : "JurajKubelka 3/10/2014 20:33",
+		"nodeThat:" : "JurajKubelka 3/21/2014 17:29",
+		"nodes" : "JurajKubelka 3/10/2014 19:21",
+		"nodesDo:" : "JurajKubelka 3/10/2014 20:40",
+		"nodesThat:" : "JurajKubelka 4/21/2014 19:24",
+		"postCopy" : "JurajKubelka 3/13/2014 13:10",
+		"printOn:" : "JurajKubelka 3/13/2014 10:28",
+		"removeEdges:" : "JurajKubelka 3/11/2014 15:45",
+		"removeNodes:" : "JurajKubelka 3/11/2014 15:46" } }

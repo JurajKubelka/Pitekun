@@ -1,0 +1,3 @@
+view
+view
+	^ configuration view

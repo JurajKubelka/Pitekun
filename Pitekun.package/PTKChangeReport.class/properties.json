@@ -1,0 +1,20 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oldCobweb",
+		"newCobweb",
+		"removedNodes",
+		"removedEdges",
+		"newNodes",
+		"newEdges",
+		"actions" ],
+	"name" : "PTKChangeReport",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

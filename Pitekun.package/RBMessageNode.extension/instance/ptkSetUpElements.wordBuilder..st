@@ -1,0 +1,3 @@
+*Pitekun
+ptkSetUpElements: aRTElement wordBuilder: aPTKR2SourceCodeWordBuilder
+	aPTKR2SourceCodeWordBuilder setUpMessageNodeElements: aRTElement

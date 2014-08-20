@@ -1,0 +1,3 @@
+testing
+isMethodBuilder
+	^ true

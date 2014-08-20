@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model" ],
+	"name" : "PTKProtoNode",
+	"pools" : [
+		 ],
+	"super" : "PTKCobwebItem",
+	"type" : "normal" }

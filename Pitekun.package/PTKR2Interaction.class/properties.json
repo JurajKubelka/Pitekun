@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"boss" ],
+	"name" : "PTKR2Interaction",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Object",
+	"type" : "normal" }

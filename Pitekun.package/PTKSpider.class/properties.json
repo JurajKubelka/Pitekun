@@ -1,0 +1,18 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "PTKCobwebWhenDo classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cobweb",
+		"store",
+		"logistician" ],
+	"name" : "PTKSpider",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"traitcomposition" : "PTKCobwebWhenDo",
+	"type" : "normal" }

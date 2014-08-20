@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classAdded:" : "JurajKubelka 5/26/2014 12:08",
+		"classRemoved:" : "JurajKubelka 5/26/2014 12:08",
+		"method:addedToClass:" : "JurajKubelka 5/26/2014 12:08",
+		"method:removedFromClass:" : "JurajKubelka 5/27/2014 13:02",
+		"setUp" : "JurajKubelka 5/26/2014 12:08",
+		"startWatcher" : "JurajKubelka 5/26/2014 10:43",
+		"stopWatcher" : "JurajKubelka 5/26/2014 10:43",
+		"tearDown" : "JurajKubelka 5/26/2014 09:56",
+		"testClassAdded" : "JurajKubelka 5/26/2014 12:08",
+		"testClassRemoved" : "JurajKubelka 5/26/2014 12:08",
+		"testMethodAdded" : "JurajKubelka 5/26/2014 12:08",
+		"testMethodRemoved" : "JurajKubelka 5/27/2014 10:01" } }

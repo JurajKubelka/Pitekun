@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-SourceCodeBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKR2WordShapeBuilder",
+	"pools" : [
+		 ],
+	"super" : "PTKR2SourceCodeWordBuilder",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKR2ReportManipulation",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Manipulation",
+	"type" : "normal" }

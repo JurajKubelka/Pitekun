@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCobwebItemsForModel:" : "JurajKubelka 4/11/2014 08:42",
+		"addCobwebItemsForModels:" : "JurajKubelka 3/18/2014 11:24",
+		"constructEdge:" : "JurajKubelka 5/29/2014 16:37",
+		"constructMethod:" : "JurajKubelka 5/29/2014 16:37",
+		"edgesFromModels:" : "JurajKubelka 3/17/2014 17:43",
+		"elementsFromModels:" : "JurajKubelka 3/17/2014 17:39",
+		"introduceChanges" : "JurajKubelka 3/31/2014 13:05",
+		"processActions" : "JurajKubelka 3/31/2014 13:08",
+		"processSmallestAction:" : "JurajKubelka 3/31/2014 18:01",
+		"removeEdgesFromModel:" : "JurajKubelka 3/17/2014 17:42",
+		"removeElement:" : "JurajKubelka 4/11/2014 09:26",
+		"removeNodesFromModel:" : "JurajKubelka 4/1/2014 14:29",
+		"visitImplementors:" : "JurajKubelka 5/29/2014 16:40",
+		"visitImplementorsEdge:" : "JurajKubelka 5/29/2014 16:40",
+		"visitMethod:" : "JurajKubelka 5/29/2014 16:40",
+		"visitMethodCallEdge:" : "JurajKubelka 3/18/2014 15:56",
+		"visitSenders:" : "JurajKubelka 7/25/2014 15:23",
+		"visitSendersEdge:" : "JurajKubelka 7/25/2014 15:32",
+		"visitVariables:" : "JurajKubelka 5/7/2014 10:53" } }

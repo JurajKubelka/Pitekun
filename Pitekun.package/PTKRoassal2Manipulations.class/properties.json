@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Roassal2-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"maintenance",
+		"journalist",
+		"layoutMan" ],
+	"name" : "PTKRoassal2Manipulations",
+	"pools" : [
+		 ],
+	"super" : "PTKProtoLogistician",
+	"type" : "normal" }

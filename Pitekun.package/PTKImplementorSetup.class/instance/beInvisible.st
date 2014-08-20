@@ -1,0 +1,3 @@
+visibility
+beInvisible
+	visible := false

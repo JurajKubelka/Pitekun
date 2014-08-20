@@ -1,0 +1,3 @@
+double dispatch
+configureImplementorsEdge: aPTKImplementorsEdge 
+	aPTKImplementorsEdge uiAttributes builder: edgeBuilder

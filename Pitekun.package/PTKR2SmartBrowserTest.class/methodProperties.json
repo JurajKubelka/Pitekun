@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"classesMatchingPattern" : "JurajKubelka 5/26/2014 07:19",
+		"installSystemWatcher" : "JurajKubelka 5/26/2014 17:49",
+		"setUp" : "JurajKubelka 5/26/2014 10:03",
+		"tearDown" : "JurajKubelka 5/27/2014 13:21",
+		"testClassAdded" : "JurajKubelka 5/26/2014 17:49",
+		"testClassRemoved" : "JurajKubelka 5/26/2014 17:50",
+		"testInstallExtension" : "JurajKubelka 5/26/2014 10:06",
+		"testMethodAddedToClass" : "JurajKubelka 5/26/2014 18:27",
+		"testMethodRemovedFromClass" : "JurajKubelka 5/27/2014 13:17" } }

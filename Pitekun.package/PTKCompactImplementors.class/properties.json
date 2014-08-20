@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKCompactImplementors",
+	"pools" : [
+		 ],
+	"super" : "PTKExtension",
+	"type" : "normal" }

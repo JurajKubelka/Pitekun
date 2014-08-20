@@ -1,0 +1,3 @@
+support
+addCompiledMethod2
+	spider addCompiledMethod: compiledMethod2.

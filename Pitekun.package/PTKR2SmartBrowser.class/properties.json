@@ -1,0 +1,18 @@
+{
+	"category" : "Pitekun-Roassal2-SmartBrowser",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "PTKWhenDo classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pitekun",
+		"extensions",
+		"announcer" ],
+	"name" : "PTKR2SmartBrowser",
+	"pools" : [
+		 ],
+	"super" : "RTAbstractSmartBrowser",
+	"traitcomposition" : "PTKWhenDo",
+	"type" : "normal" }

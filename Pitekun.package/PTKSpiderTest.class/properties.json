@@ -1,0 +1,17 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"compiledMethod2",
+		"compiledMethod3",
+		"compiledMethod1",
+		"startWithCompiledMethod1History" ],
+	"name" : "PTKSpiderTest",
+	"pools" : [
+		 ],
+	"super" : "PTKProtoSpiderTest",
+	"type" : "normal" }

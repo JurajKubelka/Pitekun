@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report",
+		"chains" ],
+	"name" : "PTKChainBuilder",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

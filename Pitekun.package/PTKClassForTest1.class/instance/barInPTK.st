@@ -1,0 +1,3 @@
+accessing
+barInPTK
+	^ 10

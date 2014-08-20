@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cobwebs" : "JurajKubelka 3/10/2014 20:12",
+		"configureItem:" : "JurajKubelka 4/4/2014 13:44",
+		"deleteReport" : "JurajKubelka 3/11/2014 13:46",
+		"filters" : "JurajKubelka 3/13/2014 13:15",
+		"hasReport" : "JurajKubelka 3/11/2014 13:46",
+		"inRecursion" : "JurajKubelka 3/26/2014 11:13",
+		"initialize" : "JurajKubelka 3/26/2014 11:13",
+		"itemConfiguration:" : "JurajKubelka 4/4/2014 13:43",
+		"recursionDetected" : "JurajKubelka 3/26/2014 11:13",
+		"report" : "JurajKubelka 3/11/2014 13:45",
+		"returnFromRecursion" : "JurajKubelka 3/26/2014 11:13" } }

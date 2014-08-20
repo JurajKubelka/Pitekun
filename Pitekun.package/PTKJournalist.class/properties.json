@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Members",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "PTKCobwebWhenDo classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer" ],
+	"name" : "PTKJournalist",
+	"pools" : [
+		 ],
+	"super" : "PTKMember",
+	"traitcomposition" : "PTKCobwebWhenDo",
+	"type" : "normal" }

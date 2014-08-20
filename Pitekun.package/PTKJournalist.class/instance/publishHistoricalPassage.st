@@ -1,0 +1,3 @@
+report manipulation
+publishHistoricalPassage
+	self publishChangeReport: PTKHistoricalPassage

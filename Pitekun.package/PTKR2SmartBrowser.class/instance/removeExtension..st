@@ -1,0 +1,3 @@
+extensions
+removeExtension: anExtensionObjectOrClass 
+	anExtensionObjectOrClass removeFrom: self

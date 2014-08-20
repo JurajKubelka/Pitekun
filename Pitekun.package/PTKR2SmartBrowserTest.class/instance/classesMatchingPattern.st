@@ -1,0 +1,3 @@
+mock support
+classesMatchingPattern
+	^ 'PTKClassForTest*'

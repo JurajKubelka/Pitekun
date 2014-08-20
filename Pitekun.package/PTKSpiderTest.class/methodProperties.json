@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCompiledMethod1" : "JurajKubelka 3/10/2014 18:32",
+		"addCompiledMethod1And2AndAssertAction" : "JurajKubelka 3/31/2014 11:59",
+		"addCompiledMethod2" : "JurajKubelka 3/10/2014 18:32",
+		"addCompiledMethod3" : "JurajKubelka 3/10/2014 18:32",
+		"node1" : "JurajKubelka 3/10/2014 18:35",
+		"setUp" : "JurajKubelka 3/31/2014 11:56",
+		"startWithCompiledMethod1" : "JurajKubelka 3/31/2014 11:53",
+		"testAddCompiledMethod" : "JurajKubelka 3/31/2014 11:57",
+		"testAddImplementorsOfFrom" : "JurajKubelka 4/4/2014 13:02",
+		"testAddImplementorsOfFrom2" : "JurajKubelka 3/21/2014 17:49",
+		"testAddSendersOf" : "JurajKubelka 4/29/2014 15:58",
+		"testFilterItem" : "JurajKubelka 3/31/2014 11:58",
+		"testFilterItem2" : "JurajKubelka 3/13/2014 16:05",
+		"testInitializeHistory" : "JurajKubelka 3/12/2014 17:24",
+		"testRefineFilter1" : "JurajKubelka 3/31/2014 11:59",
+		"testRefineFilter2" : "JurajKubelka 3/31/2014 11:59",
+		"testRemoveNode" : "JurajKubelka 3/31/2014 12:00",
+		"testStartWithCompiledMethod1" : "JurajKubelka 3/12/2014 17:59",
+		"testStylisticFilter1" : "JurajKubelka 3/31/2014 12:05",
+		"testUndo" : "JurajKubelka 3/31/2014 12:01",
+		"testUndo2" : "JurajKubelka 3/31/2014 12:03" } }

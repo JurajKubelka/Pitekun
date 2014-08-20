@@ -1,0 +1,1 @@
+A PTKR2SmartBrowserTest is a test class for testing the behavior of PTKR2SmartBrowser

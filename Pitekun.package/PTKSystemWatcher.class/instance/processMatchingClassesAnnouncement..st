@@ -1,0 +1,3 @@
+event handling
+processMatchingClassesAnnouncement: aPTKR2AddMatchingClassesAnnouncement 
+	self watchClassesMatching: aPTKR2AddMatchingClassesAnnouncement matchingString

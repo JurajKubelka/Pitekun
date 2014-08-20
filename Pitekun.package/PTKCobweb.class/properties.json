@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodes",
+		"edges" ],
+	"name" : "PTKCobweb",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

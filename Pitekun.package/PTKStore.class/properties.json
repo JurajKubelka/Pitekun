@@ -1,0 +1,18 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cobwebs",
+		"report",
+		"filters",
+		"recursion",
+		"itemConfiguration" ],
+	"name" : "PTKStore",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

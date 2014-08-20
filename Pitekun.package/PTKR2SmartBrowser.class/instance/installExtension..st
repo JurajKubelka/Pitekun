@@ -1,0 +1,3 @@
+extensions
+installExtension: anExtensionObjectOrClass 
+	anExtensionObjectOrClass installOnSmartBrowser: self.

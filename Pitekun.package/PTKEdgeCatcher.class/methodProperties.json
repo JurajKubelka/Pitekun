@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addEdge:" : "JurajKubelka 3/11/2014 15:48",
+		"addEdgeFor:" : "JurajKubelka 3/11/2014 15:35",
+		"addEdgeFrom:to:" : "JurajKubelka 3/26/2014 10:42",
+		"addEdgeFromNode:toNode:" : "JurajKubelka 3/26/2014 10:49",
+		"addEdges" : "JurajKubelka 3/11/2014 15:32",
+		"addEdgesFrom:" : "JurajKubelka 3/11/2014 16:10",
+		"connectImplementors:withMethod:" : "JurajKubelka 4/11/2014 08:35",
+		"connectMethod:withMethod:" : "JurajKubelka 3/11/2014 15:46",
+		"connectSenders:withMethod:" : "JurajKubelka 4/29/2014 16:03",
+		"edgeFromMethod:toImplementors:" : "JurajKubelka 5/23/2014 09:39",
+		"edgeFromMethod:toVariables:" : "JurajKubelka 5/23/2014 09:39",
+		"edgeFromSenders:toMethod:" : "JurajKubelka 5/23/2014 09:39",
+		"rawConnectMethod:withMethod:" : "JurajKubelka 5/23/2014 09:39" } }

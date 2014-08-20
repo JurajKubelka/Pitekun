@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Roassal2-SourceCodeBuilder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target",
+		"message" ],
+	"name" : "PTKR2MessageSender",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Object",
+	"type" : "normal" }

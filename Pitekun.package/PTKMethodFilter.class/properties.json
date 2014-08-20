@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKMethodFilter",
+	"pools" : [
+		 ],
+	"super" : "PTKItemFilter",
+	"type" : "normal" }

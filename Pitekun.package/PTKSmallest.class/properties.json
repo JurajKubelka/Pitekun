@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKSmallest",
+	"pools" : [
+		 ],
+	"super" : "PTKItemActions",
+	"type" : "normal" }

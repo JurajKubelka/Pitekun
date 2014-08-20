@@ -1,0 +1,3 @@
+installing
+installOn: aPitekun
+	self subclassResponsibility

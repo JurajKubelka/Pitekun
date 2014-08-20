@@ -1,0 +1,3 @@
+manipulation
+removedEdges: aCollectionOfNodes
+	self removedEdges addAll: aCollectionOfNodes

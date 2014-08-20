@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKMenu",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

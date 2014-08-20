@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Roassal2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodBuilder",
+		"edgeBuilder",
+		"methodGroupBuilder" ],
+	"name" : "PTKR2ItemConfiguration",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Object",
+	"type" : "normal" }

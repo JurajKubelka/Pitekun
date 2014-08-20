@@ -1,0 +1,3 @@
+protocol manipulation
+recursionDetected
+	self store recursionDetected

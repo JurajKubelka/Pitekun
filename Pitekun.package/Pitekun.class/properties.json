@@ -1,0 +1,19 @@
+{
+	"category" : "Pitekun-Browser",
+	"classinstvars" : [
+		"instances" ],
+	"classtraitcomposition" : "PTKCobwebWhenDo classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"spider",
+		"ui",
+		"window",
+		"extensions" ],
+	"name" : "Pitekun",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"traitcomposition" : "PTKCobwebWhenDo",
+	"type" : "normal" }

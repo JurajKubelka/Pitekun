@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKFilterAdmin",
+	"pools" : [
+		 ],
+	"super" : "PTKMember",
+	"type" : "normal" }

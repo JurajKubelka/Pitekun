@@ -1,0 +1,3 @@
+visiting
+visitImplementorsEdge: aPTKImplementorsEdge 
+	self constructEdge: aPTKImplementorsEdge

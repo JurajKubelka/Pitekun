@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Filters",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceNode",
+		"message",
+		"boss" ],
+	"name" : "PTKFilterContext",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

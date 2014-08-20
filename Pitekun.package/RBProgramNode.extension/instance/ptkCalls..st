@@ -1,0 +1,3 @@
+*Pitekun
+ptkCalls: aSymbol 
+	^ false

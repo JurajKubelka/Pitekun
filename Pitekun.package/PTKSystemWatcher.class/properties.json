@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Roassal2-SmartBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"applicants",
+		"matchingStrings" ],
+	"name" : "PTKSystemWatcher",
+	"pools" : [
+		 ],
+	"super" : "PTKR2Extension",
+	"type" : "normal" }

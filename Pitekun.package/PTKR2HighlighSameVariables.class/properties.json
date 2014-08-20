@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-Extensions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKR2HighlighSameVariables",
+	"pools" : [
+		 ],
+	"super" : "PTKR2ProtoHighligh",
+	"type" : "normal" }

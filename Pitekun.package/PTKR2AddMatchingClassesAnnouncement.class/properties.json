@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-SmartBrowser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"matchingString" ],
+	"name" : "PTKR2AddMatchingClassesAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

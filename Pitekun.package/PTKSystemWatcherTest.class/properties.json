@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"watcher",
+		"track" ],
+	"name" : "PTKSystemWatcherTest",
+	"pools" : [
+		 ],
+	"super" : "PTKTestCase",
+	"type" : "normal" }

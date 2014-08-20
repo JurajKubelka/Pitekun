@@ -1,0 +1,15 @@
+SystemOrganization addCategory: #Pitekun!
+SystemOrganization addCategory: 'Pitekun-Browser'!
+SystemOrganization addCategory: 'Pitekun-Core'!
+SystemOrganization addCategory: 'Pitekun-Extensions'!
+SystemOrganization addCategory: 'Pitekun-Filters'!
+SystemOrganization addCategory: 'Pitekun-Items'!
+SystemOrganization addCategory: 'Pitekun-Members'!
+SystemOrganization addCategory: 'Pitekun-Roassal2'!
+SystemOrganization addCategory: 'Pitekun-Roassal2-Extensions'!
+SystemOrganization addCategory: 'Pitekun-Roassal2-Members'!
+SystemOrganization addCategory: 'Pitekun-Roassal2-SmartBrowser'!
+SystemOrganization addCategory: 'Pitekun-Roassal2-SourceCodeBuilder'!
+SystemOrganization addCategory: 'Pitekun-Spec'!
+SystemOrganization addCategory: 'Pitekun-Tests'!
+SystemOrganization addCategory: 'Pitekun-Traits'!

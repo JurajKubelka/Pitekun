@@ -1,0 +1,3 @@
+report
+hasReport
+	^ report notNil

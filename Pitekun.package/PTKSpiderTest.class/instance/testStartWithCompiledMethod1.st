@@ -1,0 +1,3 @@
+tests
+testStartWithCompiledMethod1
+	self startWithCompiledMethod1

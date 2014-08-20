@@ -1,0 +1,15 @@
+{
+	"category" : "Pitekun-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"method",
+		"visible" ],
+	"name" : "PTKImplementorSetup",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

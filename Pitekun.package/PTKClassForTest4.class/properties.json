@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKClassForTest4",
+	"pools" : [
+		 ],
+	"super" : "PTKObject",
+	"type" : "normal" }

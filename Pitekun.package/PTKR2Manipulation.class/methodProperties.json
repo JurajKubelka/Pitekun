@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"edgesFrom:" : "JurajKubelka 4/2/2014 10:39",
+		"edgesTo:" : "JurajKubelka 4/2/2014 10:39",
+		"elementFromModel:" : "JurajKubelka 3/31/2014 17:36",
+		"elements" : "JurajKubelka 3/18/2014 19:21",
+		"methodCallEdgeCivilEngineer" : "JurajKubelka 3/18/2014 15:55",
+		"methodCivilEngineer" : "JurajKubelka 3/18/2014 13:20",
+		"modelReport" : "JurajKubelka 3/18/2014 18:52",
+		"report" : "JurajKubelka 3/18/2014 13:38",
+		"rootEdges" : "JurajKubelka 4/10/2014 16:35",
+		"rootElements" : "JurajKubelka 4/10/2014 16:34",
+		"view" : "JurajKubelka 3/18/2014 16:02" } }

@@ -1,0 +1,3 @@
+view manipulation
+processActionWith: aMember
+	self subclassResponsibility

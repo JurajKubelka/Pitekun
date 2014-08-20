@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addClassesMatching:" : "JurajKubelka 5/25/2014 21:33",
+		"addElementForMethod:" : "JurajKubelka 5/27/2014 09:58",
+		"addExtension:" : "JurajKubelka 5/25/2014 21:25",
+		"addMethod:toClass:" : "JurajKubelka 5/27/2014 09:58",
+		"announcer" : "JurajKubelka 5/26/2014 07:17",
+		"applyLayoutOnMethodsOfClass:element:" : "JurajKubelka 5/26/2014 18:59",
+		"changeView:" : "JurajKubelka 5/29/2014 14:45",
+		"classAdded:" : "JurajKubelka 5/26/2014 08:42",
+		"classRemoved:" : "JurajKubelka 5/26/2014 10:13",
+		"clickOnMethod:" : "JurajKubelka 6/4/2014 09:07",
+		"extensions" : "JurajKubelka 5/25/2014 21:26",
+		"installExtension:" : "JurajKubelka 5/25/2014 21:22",
+		"method:addedToClass:" : "JurajKubelka 5/26/2014 18:33",
+		"method:removedFromClass:" : "JurajKubelka 5/27/2014 13:07",
+		"pitekun:" : "JurajKubelka 5/23/2014 11:39",
+		"removeClass:" : "JurajKubelka 5/26/2014 10:20",
+		"removeConnectedEdges:" : "JurajKubelka 5/27/2014 13:18",
+		"removeExtension:" : "JurajKubelka 5/27/2014 13:47",
+		"removeExtensionFromList:" : "JurajKubelka 5/27/2014 13:37",
+		"removeExtensionsOfType:" : "JurajKubelka 5/27/2014 13:26",
+		"removeMethod:fromClass:" : "JurajKubelka 5/27/2014 13:18",
+		"updateMethodEdgesForClass:element:" : "JurajKubelka 5/26/2014 18:53",
+		"view:" : "JurajKubelka 5/29/2014 14:44" } }

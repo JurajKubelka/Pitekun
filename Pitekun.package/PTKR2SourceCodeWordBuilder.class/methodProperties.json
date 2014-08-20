@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"called:" : "JurajKubelka 3/17/2014 16:26",
+		"called:initialize:" : "JurajKubelka 3/17/2014 16:26",
+		"default" : "JurajKubelka 3/18/2014 15:26",
+		"initialize" : "JurajKubelka 3/17/2014 16:27",
+		"initializeSpaceBuilder:" : "JurajKubelka 3/17/2014 16:27",
+		"method" : "JurajKubelka 3/17/2014 16:29",
+		"methodClass" : "JurajKubelka 4/24/2014 17:44",
+		"newBuilder" : "JurajKubelka 3/17/2014 16:29",
+		"newBuilderFor:" : "JurajKubelka 3/17/2014 16:30",
+		"selector" : "JurajKubelka 3/17/2014 16:29",
+		"setUpClassElements:" : "JurajKubelka 4/24/2014 17:42",
+		"setUpDefaultNodeElements:" : "JurajKubelka 3/17/2014 16:38",
+		"setUpElements:" : "JurajKubelka 4/14/2014 20:05",
+		"setUpMessageNodeElements:" : "JurajKubelka 3/17/2014 16:39",
+		"setUpMethodNodeElements:" : "JurajKubelka 3/17/2014 16:39",
+		"setUpSpaceElements:" : "JurajKubelka 3/17/2014 16:39",
+		"setUpVariableNodeElements:" : "JurajKubelka 4/24/2014 18:36",
+		"space" : "JurajKubelka 3/17/2014 16:29",
+		"variable" : "JurajKubelka 4/24/2014 18:20" } }

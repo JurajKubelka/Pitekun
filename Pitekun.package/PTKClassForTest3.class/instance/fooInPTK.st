@@ -1,0 +1,3 @@
+accessing
+fooInPTK
+	^ self barInPTK

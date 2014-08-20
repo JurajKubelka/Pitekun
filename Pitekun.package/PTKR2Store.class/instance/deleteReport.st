@@ -1,0 +1,3 @@
+report
+deleteReport
+	report := nil

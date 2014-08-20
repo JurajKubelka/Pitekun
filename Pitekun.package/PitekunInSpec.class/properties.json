@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Spec",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"roassalModel",
+		"textModel",
+		"pitekun" ],
+	"name" : "PitekunInSpec",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

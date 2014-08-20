@@ -1,0 +1,16 @@
+{
+	"category" : "Pitekun-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"spider",
+		"trigger",
+		"initializedHistory" ],
+	"name" : "PTKProtoSpiderTest",
+	"pools" : [
+		 ],
+	"super" : "PTKTestCase",
+	"type" : "normal" }

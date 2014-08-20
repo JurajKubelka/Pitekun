@@ -1,0 +1,3 @@
+*Pitekun
+ptkSelectorEquals: aSymbol 
+	^ false

@@ -1,0 +1,3 @@
+double dispatching
+ptkSetUpElements: aRTElement wordBuilder: aPTKR2WordShapeBuilder 
+	aPTKR2WordShapeBuilder setUpClassElements: aRTElement

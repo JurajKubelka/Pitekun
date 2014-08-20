@@ -1,0 +1,14 @@
+{
+	"category" : "Pitekun-Roassal2-Members",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PTKR2NullLayoutManipulation",
+	"pools" : [
+		 ],
+	"super" : "PTKR2BasicLayoutManipulation",
+	"type" : "normal" }
