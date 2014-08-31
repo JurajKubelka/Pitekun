@@ -1,3 +1,4 @@
 class initialization
 initialize
-	self initializeCandidates
+	self initializeCandidates.
+	self registerToNautilus.

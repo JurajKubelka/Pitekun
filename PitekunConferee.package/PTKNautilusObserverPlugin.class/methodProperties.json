@@ -2,8 +2,9 @@
 	"class" : {
 		"addCandidate:" : "JurajKubelka 8/28/2014 13:55",
 		"candidates" : "JurajKubelka 8/28/2014 16:06",
-		"initialize" : "JurajKubelka 8/28/2014 18:26",
+		"initialize" : "JurajKubelka 8/31/2014 16:37",
 		"initializeCandidates" : "JurajKubelka 8/28/2014 18:26",
+		"registerToNautilus" : "JurajKubelka 8/31/2014 16:37",
 		"removeCandidate:" : "JurajKubelka 8/28/2014 18:31",
 		"resetCandidates" : "JurajKubelka 8/28/2014 18:27" },
 	"instance" : {
