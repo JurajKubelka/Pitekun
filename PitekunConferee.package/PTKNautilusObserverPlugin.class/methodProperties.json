@@ -1,10 +1,17 @@
 {
 	"class" : {
-		 },
+		"addCandidate:" : "JurajKubelka 8/28/2014 13:55",
+		"candidates" : "JurajKubelka 8/28/2014 16:06",
+		"initialize" : "JurajKubelka 8/28/2014 18:26",
+		"initializeCandidates" : "JurajKubelka 8/28/2014 18:26",
+		"removeCandidate:" : "JurajKubelka 8/28/2014 18:31",
+		"resetCandidates" : "JurajKubelka 8/28/2014 18:27" },
 	"instance" : {
-		"classSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"groupSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"methodSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"packageSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"protocolSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"registerTo:" : "JurajKubelka 8/28/2014 12:38:30" } }
+		"candidates" : "JurajKubelka 8/28/2014 13:52",
+		"candidatesDo:" : "JurajKubelka 8/28/2014 18:33",
+		"classSelected:" : "JurajKubelka 8/28/2014 18:34",
+		"groupSelected:" : "JurajKubelka 8/25/2014 17:15",
+		"methodSelected:" : "JurajKubelka 8/28/2014 18:32",
+		"packageSelected:" : "JurajKubelka 8/28/2014 18:34",
+		"protocolSelected:" : "JurajKubelka 8/25/2014 16:50",
+		"registerTo:" : "JurajKubelka 8/25/2014 13:57" } }

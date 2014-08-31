@@ -1,4 +1,4 @@
-tests-as yet unclassified
+tests-accessing
 testClassSelected
 	conferee classSelected: self class.
 	self assert: conferee classes size equals: 1.

@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 packagesExcept: aCollectionOfRPackages 
 	^ self packages copyWithoutAll: aCollectionOfRPackages 

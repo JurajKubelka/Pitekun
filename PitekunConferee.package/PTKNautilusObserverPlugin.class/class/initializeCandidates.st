@@ -1,0 +1,3 @@
+class initialization
+initializeCandidates
+	self addCandidate: PTKConferee current

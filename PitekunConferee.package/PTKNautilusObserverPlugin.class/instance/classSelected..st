@@ -1,4 +1,5 @@
 Nautilus events
 classSelected: aNautilusClassSelected 
 	aNautilusClassSelected itemClass ifNil: [ ^ self ].
-	PTKConferee current classSelected: aNautilusClassSelected itemClass.
+	self candidatesDo: [ :eachCandidate |
+		eachCandidate classSelected: aNautilusClassSelected itemClass. ]

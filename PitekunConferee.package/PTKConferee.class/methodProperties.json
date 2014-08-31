@@ -1,13 +1,16 @@
 {
 	"class" : {
-		"current" : "JurajKubelka 8/28/2014 12:38:30" },
+		"current" : "JurajKubelka 8/25/2014 14:17" },
 	"instance" : {
-		"classSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"classes" : "JurajKubelka 8/28/2014 12:38:30",
-		"classesExcept:" : "JurajKubelka 8/28/2014 12:38:30",
-		"methodSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"methods" : "JurajKubelka 8/28/2014 12:38:30",
-		"methodsExcept:" : "JurajKubelka 8/28/2014 12:38:30",
-		"packageSelected:" : "JurajKubelka 8/28/2014 12:38:30",
-		"packages" : "JurajKubelka 8/28/2014 12:38:30",
-		"packagesExcept:" : "JurajKubelka 8/28/2014 12:38:30" } }
+		"classSelected:" : "JurajKubelka 8/25/2014 16:52",
+		"classes" : "JurajKubelka 8/25/2014 16:48",
+		"classesExcept:" : "JurajKubelka 8/27/2014 13:48",
+		"informationRelevantToClass:" : "JurajKubelka 8/28/2014 13:29",
+		"informationRelevantToMethod:" : "JurajKubelka 8/28/2014 18:14",
+		"informationRelevantToPackages:" : "JurajKubelka 8/28/2014 18:08",
+		"methodSelected:" : "JurajKubelka 8/25/2014 16:56",
+		"methods" : "JurajKubelka 8/25/2014 16:56",
+		"methodsExcept:" : "JurajKubelka 8/27/2014 14:07",
+		"packageSelected:" : "JurajKubelka 8/25/2014 16:37",
+		"packages" : "JurajKubelka 8/25/2014 16:35",
+		"packagesExcept:" : "JurajKubelka 8/25/2014 20:00" } }

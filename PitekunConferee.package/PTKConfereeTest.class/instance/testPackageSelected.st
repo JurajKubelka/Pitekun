@@ -1,4 +1,4 @@
-tests
+tests-accessing
 testPackageSelected
 
 	conferee packageSelected: self class package.

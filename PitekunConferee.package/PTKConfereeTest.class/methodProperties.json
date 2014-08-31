@@ -2,7 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "JurajKubelka 8/28/2014 12:38:30",
-		"testClassSelected" : "JurajKubelka 8/28/2014 12:38:30",
-		"testMethodSelected" : "JurajKubelka 8/28/2014 12:38:30",
-		"testPackageSelected" : "JurajKubelka 8/28/2014 12:38:30" } }
+		"otherReferencedClasses" : "JurajKubelka 8/28/2014 13:27",
+		"setUp" : "JurajKubelka 8/25/2014 16:31",
+		"setUpClasses" : "JurajKubelka 8/28/2014 13:26",
+		"testClassSelected" : "JurajKubelka 8/25/2014 16:53",
+		"testInformationRelevantToClass" : "JurajKubelka 8/28/2014 13:29",
+		"testMethodSelected" : "JurajKubelka 8/25/2014 16:57",
+		"testPackageSelected" : "JurajKubelka 8/25/2014 16:46" } }

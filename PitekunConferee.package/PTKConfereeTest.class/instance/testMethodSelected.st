@@ -1,4 +1,4 @@
-tests-as yet unclassified
+tests-accessing
 testMethodSelected
 	conferee methodSelected: self class >> #setUp.
 	self assert: conferee methods size equals: 1.
