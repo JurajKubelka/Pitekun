@@ -1,7 +1,7 @@
 {
 	"class" : {
 		"defaultSpec" : "JurajKubelka 8/31/2014 15:01:09",
-		"initialize" : "JurajKubelka 8/31/2014 16:01",
+		"initialize" : "JurajKubelka 8/31/2014 16:34",
 		"title" : "JurajKubelka 8/31/2014 15:01:09" },
 	"instance" : {
 		"addClass:into:highlight:" : "JurajKubelka 8/31/2014 15:01:09",
@@ -17,7 +17,7 @@
 		"cleanView" : "JurajKubelka 8/31/2014 15:01:09",
 		"conferee" : "JurajKubelka 8/31/2014 15:01:09",
 		"delete" : "JurajKubelka 8/31/2014 15:01:09",
-		"extendLayout:" : "JurajKubelka 8/31/2014 15:42",
+		"extendLayout:" : "JurajKubelka 8/31/2014 16:25",
 		"graphModel" : "JurajKubelka 8/31/2014 15:01:09",
 		"initialize" : "JurajKubelka 8/31/2014 15:01:09",
 		"initializeWidgets" : "JurajKubelka 8/31/2014 15:01:09",

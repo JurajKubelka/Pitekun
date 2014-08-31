@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 extendLayout: layout
 	layout newRow: [ :row |
-				row add: #graphModel ]
+				row add: { #plugin:. self. #graphModel } ] 
