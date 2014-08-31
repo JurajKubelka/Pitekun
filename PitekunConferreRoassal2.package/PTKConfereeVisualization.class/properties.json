@@ -12,5 +12,5 @@
 	"name" : "PTKConfereeVisualization",
 	"pools" : [
 		 ],
-	"super" : "ComposableModel",
+	"super" : "PeriscopePlugin",
 	"type" : "normal" }
