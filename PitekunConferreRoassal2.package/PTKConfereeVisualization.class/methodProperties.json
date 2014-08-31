@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"defaultSpec" : "JurajKubelka 8/31/2014 14:37:11",
+		"title" : "JurajKubelka 8/31/2014 14:37:11" },
+	"instance" : {
+		"addClass:into:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addClassesInto:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addMethod:into:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addMethodsInto:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addPackage:into:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addPackagesInto:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addTransitionsOfClasses:into:" : "JurajKubelka 8/31/2014 14:37:11",
+		"addTransitionsOfPackages:into:" : "JurajKubelka 8/31/2014 14:37:11",
+		"buildOnView:andCanvas:" : "JurajKubelka 8/31/2014 14:37:11",
+		"conferee" : "JurajKubelka 8/31/2014 14:37:11",
+		"graphModel" : "JurajKubelka 8/31/2014 14:37:11",
+		"initializeWidgets" : "JurajKubelka 8/31/2014 14:37:11",
+		"nestClasses:inView:" : "JurajKubelka 8/31/2014 14:37:11",
+		"nestClasses:intoPackage:inView:" : "JurajKubelka 8/31/2014 14:37:11",
+		"nestMethods:inView:" : "JurajKubelka 8/31/2014 14:37:11",
+		"nestMethods:intoClass:inView:" : "JurajKubelka 8/31/2014 14:37:11" } }

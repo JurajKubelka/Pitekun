@@ -1,0 +1,15 @@
+{
+	"category" : "PitekunConferreRoassal2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graphModel",
+		"conferee" ],
+	"name" : "PTKConfereeVisualization",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }
