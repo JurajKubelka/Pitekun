@@ -1,0 +1,14 @@
+{
+	"category" : "PitekunConferee-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"conferee" ],
+	"name" : "PTKConfereeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

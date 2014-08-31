@@ -1,0 +1,16 @@
+{
+	"category" : "PitekunConferee-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Current" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"packages",
+		"classes",
+		"methods" ],
+	"name" : "PTKConferee",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
