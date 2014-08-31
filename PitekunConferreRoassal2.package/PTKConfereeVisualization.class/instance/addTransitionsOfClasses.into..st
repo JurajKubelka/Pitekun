@@ -1,4 +1,4 @@
-as yet unclassified
+visualization
 addTransitionsOfClasses: aCollectionOfClassElements into: aView 
 	RTEdge
 		buildEdgesFromElements: aCollectionOfClassElements 

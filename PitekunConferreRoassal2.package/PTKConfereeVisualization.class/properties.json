@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"graphModel",
-		"conferee" ],
+		"conferee",
+		"view" ],
 	"name" : "PTKConfereeVisualization",
 	"pools" : [
 		 ],
